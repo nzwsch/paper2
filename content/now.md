@@ -19,5 +19,4 @@ date: "2024-06-07"
 - [paper.seiichiyonezawa.com](https://paper.seiichiyonezawa.com/til/)
 - [lanyon.seiichiyonezawa.com](https://lanyon.seiichiyonezawa.com/)
 - [juicy.seiichiyonezawa.com](https://juicy.seiichiyonezawa.com/)
-- [v5.seiichiyonezawa.com](https://v5.seiichiyonezawa.com/)
 - [2020.seiichiyonezawa.com](https://2020.seiichiyonezawa.com/)
