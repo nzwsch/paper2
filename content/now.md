@@ -16,7 +16,7 @@ date: "2024-06-07"
 
 ### 過去のブログ
 
-- [paper.seiichiyonezawa.com](https://paper.seiichiyonezawa.com/)
+- [paper.seiichiyonezawa.com](https://paper.seiichiyonezawa.com/til/)
 - [lanyon.seiichiyonezawa.com](https://lanyon.seiichiyonezawa.com/)
 - [juicy.seiichiyonezawa.com](https://juicy.seiichiyonezawa.com/)
 - [v5.seiichiyonezawa.com](https://v5.seiichiyonezawa.com/)
