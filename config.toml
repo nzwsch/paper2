@@ -1,3 +1,30 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://hugo-paper.vercel.app/"
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+theme = "paper"
+title = "Seiichi Yonezawa"
+
+[params]
+  color = 'linen'
+  #twitter = 'nzwsch'
+  github = 'nzwsch'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Now"
+    url = "/now/"
+    weight = 10
+
+[taxonomies]
+tag = "tags"
