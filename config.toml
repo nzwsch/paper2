@@ -1,4 +1,4 @@
-baseURL = "https://hugo-paper.vercel.app/"
+baseURL = "https://seiichiyonezawa.com/"
 languageCode = "ja"
 DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
