@@ -13,3 +13,11 @@ date: "2024-06-07"
 ブログの投稿は非公開にするか、URLを変更する可能性があるのでリンクや引用は推奨されない。
 
 また書いている内容は極力間違ったものがないように心がけるつもりではあるが、その内容が正しいかどうかまでは保障されない。
+
+### 過去のブログ
+
+- [paper.seiichiyonezawa.com](https://paper.seiichiyonezawa.com/)
+- [lanyon.seiichiyonezawa.com](https://lanyon.seiichiyonezawa.com/)
+- [juicy.seiichiyonezawa.com](https://juicy.seiichiyonezawa.com/)
+- [v5.seiichiyonezawa.com](https://v5.seiichiyonezawa.com/)
+- [2020.seiichiyonezawa.com](https://2020.seiichiyonezawa.com/)
