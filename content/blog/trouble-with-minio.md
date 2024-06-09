@@ -53,7 +53,7 @@ RailsからMinioへファイルは問題なくアップロードできるし、�
 このときアップロードした画像のURLを見てみた:
 
 ```html
-<img src="http://192.168.8.17:9000/test-app/uploads/person/avatar/1/john.jpg?X-Amz-Expires=600...">
+<img src="http://192.168.2.2:9000/test-app/uploads/person/avatar/1/john.jpg?X-Amz-Expires=600...">
 ```
 
 当然といえば当然なのかもしれないが、URLが`minio`のLAN側のアドレスを指しているので通常のネットワークからは表示できない。
