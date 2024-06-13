@@ -5,6 +5,7 @@ description: "自宅サーバーでMinioを運用しているが、画像表示�
 tags:
 - minio
 - rails
+draft: true
 ---
 
 前提として私は自宅サーバー、今風に表現するとHomelabでMinioの運用をしている。
