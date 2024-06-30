@@ -4,6 +4,7 @@ date: 2024-06-29T20:25:58+09:00
 description: ""
 tags:
 - essay
+draft: true
 ---
 
 2024年のITにおいて大きな事件といえば「江崎グリコの基幹システムの障害」と「KADOKAWAのサイバー攻撃」だろうか。
