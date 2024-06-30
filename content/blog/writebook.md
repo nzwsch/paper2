@@ -54,7 +54,7 @@ Writebookは、初回インストール時に`FirstRun.create!`を実行しま�
 
 ## app/models/
 
-DHHや37signalsでは、ServiceクラスやFormオブジェクトよりも、Concernを使ってモデルにクラスを`extend`することで機能を追加する方法が推奨されています。例えば`Account::Joinable`や`Leaf::Editable`などの命名規則があり、Concernは *-able* を接尾語として用いることが多いですが、`Authorization`や`User::Role`といった名前も見られます。必ずしも *-able* で終わる必要はないという点が興味深いです[^1]。
+37signalsで以前読んだブログの投稿では、ServiceクラスやFormオブジェクトよりもConcernを使ってモデルにクラスを`extend`することで機能を追加する方法が推奨されています。例えば`Account::Joinable`や`Leaf::Editable`などの命名規則があり、Concernは *-able* を接尾語として用いることが多いですが、`Authorization`や`User::Role`といった名前も見られます。必ずしも *-able* で終わる必要はないという点が興味深いです[^1]。
 
 [^1]: 私が以前携わったプロジェクトでは、必ず *-able* の命名を守っており、それが普通だと思っていました。
 
