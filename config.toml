@@ -26,5 +26,11 @@ title = "Seiichi Yonezawa"
     url = "/now/"
     weight = 10
 
+  [[menu.main]]
+    identifier = "notes"
+    name = "Notes"
+    url = "/notes/"
+    weight = 20
+
 [taxonomies]
 tag = "tags"
